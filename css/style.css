@@ -26,7 +26,11 @@ input {
 }
 
 a {
-    color: #4d3161;
+    color: #FFFFFF;
+}
+a: hover{
+
+    color: #FFFFFF;
 }
 
 input {
