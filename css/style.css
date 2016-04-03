@@ -1,0 +1,74 @@
+body {
+    background:url('http://i.imgur.com/cKSTq3d.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+    color: #FFFFFF;
+    font-family: "Ubuntu Light", sans-serif;
+    padding: 4%;
+    text-align: center;
+}
+
+p {
+    font-family: 'Poiret One', sans-serif;
+    font-size: 40px;
+    margin-bottom: 50px;
+    color:#FFFFF;
+}
+
+input {
+    margin: 10px;
+}
+
+#search-form {
+    margin-bottom: 40px;
+}
+
+a {
+    color: #4d3161;
+}
+
+input {
+    padding: 5px;
+    border: none;
+    color:#FFFFFF ;
+}
+
+#searchBox{
+    width: 260px;
+    margin: 20px 5px;
+    color: black;
+
+}
+
+#submit-button {
+    padding: 10px 30px;
+    font-family: "Ubuntu Light", sans-serif;
+    color: #9e2a23;
+}
+
+.item {
+    font-family: 'Poiret One', sans-serif;
+    font-size: 20px;
+    display: inline-block;
+    margin: 5px;
+    color: #FFFFFF;
+    /* background: #ffd185; */
+    padding: 8px;
+    width: 100%;
+}
+
+.description-text {
+    font-size: 14px;
+}
+
+#display {
+    margin-top: 20px;
+}
+.well{
+
+    background: transparent;
+    border: transparent;
+
+}
